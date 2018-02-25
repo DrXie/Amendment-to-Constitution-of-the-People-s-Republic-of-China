@@ -1,0 +1,1 @@
+#### 根据中国共产党中央委员会《中国共产党中央委员会关于修改宪法部分内容的建议》，对1982年12月4日第五届全国人民代表大会第五次会议通过并于1982年12月4日《中华人民共和国全国人民代表大会公告》公布施行的2004年版《中华人民共和国宪法》作出[修改](https://github.com/DrXie/Amendment-to-Constitution-of-the-People-s-Republic-of-China/commit/cf01f51c2b9cc0de60a67a06dee99fcd770c6f09)，予以参考。
